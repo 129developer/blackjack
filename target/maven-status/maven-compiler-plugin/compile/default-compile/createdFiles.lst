@@ -1,0 +1,5 @@
+com\mycompany\blackjack\skeletonClient.class
+com\mycompany\blackjack\Player.class
+com\mycompany\blackjack\Card.class
+com\mycompany\blackjack\Deck.class
+com\mycompany\blackjack\skeletonServer.class
